@@ -1,0 +1,123 @@
+dis: 0.25
+
+num: 6
+
+point0:
+  position_x : 0.5
+  position_y : 0.0
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+point1:
+  position_x : 8
+  position_y : 0
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+point2:
+  position_x : 8
+  position_y : -6.6
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+point3:
+  position_x : 8
+  position_y : -10
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+point4:
+  position_x : 8
+  position_y : 0
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+point5:
+  position_x : 0
+  position_y : 0
+  position_z : 1.4
+  orientation_x : 0
+  orientation_y : 0
+  orientation_z : 1
+  orientation_w : 0
+
+        #   <arg name="point_num" value="5" />
+        
+        # <arg name="point0_x" value="4.0" />
+        # <arg name="point0_y" value="0.0" />
+        # <arg name="point0_z" value="1.4" />
+
+        # <arg name="point1_x" value="8.0" />
+        # <arg name="point1_y" value="0.0" />
+        # <arg name="point1_z" value="1.4" />
+        
+        # <arg name="point2_x" value="8.0" />
+        # <arg name="point2_y" value="-6.6" /> 
+        # <arg name="point2_z" value="1.4" />
+        
+        # <arg name="point3_x" value="8.0" />
+        # <arg name="point3_y" value="-9.0" /> 
+        # <arg name="point3_z" value="1.4" />
+        
+        # <arg name="point4_x" value="8.0" />
+        # <arg name="point4_y" value="0.0" />
+        # <arg name="point4_z" value="1.0" />
+
+        # <arg name="point5_x" value="0.0" />
+        # <arg name="point5_y" value="0.0" />
+        # <arg name="point5_z" value="1.0" />
+
+# point0:
+#   seq : 0
+#   position_x : 0
+#   position_y : 20
+#   position_z : 1.0
+#   orientation_x : 0
+#   orientation_y : 0
+#   orientation_z : 1
+#   orientation_w : 0
+
+# point1:
+#   seq : 0
+#   position_x : 20
+#   position_y : 0
+#   position_z : 1.0
+#   orientation_x : 0
+#   orientation_y : 0
+#   orientation_z : 1
+#   orientation_w : 0
+
+# point2:
+#   seq : 0
+#   position_x : 10
+#   position_y : 10
+#   position_z : 1.0
+#   orientation_x : 0
+#   orientation_y : 0
+#   orientation_z : 1
+#   orientation_w : 0
+
+# point3:
+#   seq : 0
+#   position_x : -10
+#   position_y : -10
+#   position_z : 1.0
+#   orientation_x : 0
+#   orientation_y : 0
+#   orientation_z : 1
+#   orientation_w : 0

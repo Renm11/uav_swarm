@@ -1,0 +1,12 @@
+<launch>
+ <group ns="ktdh_1"> 
+    <!-- <node pkg="beginner_tutorials" type="listener" name="listener2" output="screen" /> -->
+    <node pkg="beginner_tutorials" type="talker" name="talker2" output="screen"/>
+    <include file="$(find beginner_tutorials)/launch/demo2.launch">
+    
+    </include>
+</group>
+</launch>
+
+<!-- 这种形式下假如demo2.launch下也设置了组（也就是有命名空间） 将会在demo2.launch的所有话题或者服务前面加上iris1 -->
+

@@ -1,0 +1,7 @@
+<launch>
+ <group ns="iris"> 
+    <node pkg="beginner_tutorials" type="talker" name="talker" output="screen" />
+    <node pkg="beginner_tutorials" type="listener" name="listener" output="screen"/>
+</group>
+    <!-- <node pkg="beginner_tutorials" type="listener" name="talker2" output="screen"/> -->
+</launch>

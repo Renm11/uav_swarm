@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    },
+    "python.formatting.provider": "yapf",
+    "editor.formatOnSave": true,
+    "python.formatting.yapfArgs": [
+        "--style",
+        "{column_limit: 150}"
+    ]
+}
